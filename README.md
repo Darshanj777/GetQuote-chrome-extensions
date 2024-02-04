@@ -19,3 +19,6 @@ New Tab:Every time you open a new tab, a fresh quote will be displayed.
 Explore Settings:Right-click on the extension icon in the toolbar and explore options to customize your experience.
 Enjoy Inspiration:Let the quotes inspire you as you navigate through your daily tasks.
 
+UI :- 
+![Screenshot 2024-02-04 190133](https://github.com/Darshanj777/GetQuote-chrome-extensions/assets/113945320/6298dabe-04fb-4c2f-b0e8-65aeea569347)
+
